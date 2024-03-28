@@ -21,5 +21,5 @@ gitHub: <a href="https://maple.chen-ray.cn"> https://github.com/chen-ray/maple <
 This DOME is developed using Laravel, if you want to deploy it to your local viewing. 
 Please ensure that your PHP version is greater than or equal to 8.1. 
 Please rename the .env.example file to .env in the root directory and set the relevant configuration of MySQL, 
-and then run the php artisan migrate command to create the data table. 
+and then run the 'php artisan migrate' and 'npm run build' command to create the data table. 
 If you have any questions please contact me on Upwork or email me.
